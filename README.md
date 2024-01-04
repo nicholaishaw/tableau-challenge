@@ -24,15 +24,20 @@ While the data has been regularly updated, the team has yet to implement a dashb
 
 **Figure 3.** *Bar chart showing the increase in bike rentals in each station before the pandemic, during the pandemic, and after the pandemic*
 
-### Peak Hours for Members and Non-Members
-![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/d94ff612-c047-4f67-a55b-78e8f3b8b446)
+### Number of Trips per Bike Type
+![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/ace91321-373b-4a2a-9169-57c54ad3178e)
 
-**Figure 4.** *Dashboard exhibiting the difference in peak hours of the day for bike rentals of members vs. non-members. Hours are in 24-hour format. Chart is interactive with the tableau public link*
+**Figure 4.** *Dashboard highlighting the number of trips per bike type for each hour of the day*
+
+### Peak Hours for Members and Non-Members
+![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/1c86fd74-92de-40dd-8b14-62bd9d1d9d8d)
+
+**Figure 5.** *Dashboard showing the difference in peak hours of the day for bike rentals of members vs. non-members. Chart is interactive with the tableau public link*
 
 ### Map of Popular Rentals
 ![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/94c59f4c-89b0-4f25-8fb4-68eaa07db323)
 
-**Figure 5.** *Map of the most common bike rental stations. In the Tableau Public version, this map is interactive and will provide the coordinates and the number of trips each station had.*
+**Figure 6.** *Map of the most common bike rental stations. In the Tableau Public version, this map is interactive and will provide the coordinates and the number of trips each station had.*
 
 
 
