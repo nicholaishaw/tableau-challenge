@@ -13,27 +13,27 @@ While the data has been regularly updated, the team has yet to implement a dashb
 ![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/2d5e2140-b827-4ea1-b0f5-776dc8df0b5e)
 
 **Figure 1.** *Dashboard of the change in bike rentals from 2019 to 2020*
-
+___
 ### Annual Bike Rental Changes
 ![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/7888d6ea-22d3-40ac-8e29-448897cfd140)
 
 **Figure 2.** *Dashboard highlighting the increase in bike rentals post-covid pandemic*
-
+___
 ### Bike Rental Increases Across Stations
 ![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/c840cdcd-1a94-4376-a398-4ca9d9ccc8be)
 
 **Figure 3.** *Bar chart showing the increase in bike rentals in each station before the pandemic, during the pandemic, and after the pandemic*
-
+___
 ### Number of Trips per Bike Type
 ![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/ace91321-373b-4a2a-9169-57c54ad3178e)
 
 **Figure 4.** *Dashboard highlighting the number of trips per bike type for each hour of the day*
-
+___
 ### Peak Hours for Members and Non-Members
 ![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/1c86fd74-92de-40dd-8b14-62bd9d1d9d8d)
 
 **Figure 5.** *Dashboard showing the difference in peak hours of the day for bike rentals of members vs. non-members. Chart is interactive with the tableau public link*
-
+___
 ### Map of Popular Rentals
 ![image](https://github.com/nicholaishaw/tableau-challenge/assets/135463220/94c59f4c-89b0-4f25-8fb4-68eaa07db323)
 
